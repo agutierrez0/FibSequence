@@ -7,8 +7,11 @@
   
  # Example
  Input 5: 0, 1, 1, 2, 3
+ 
  Input 8: 0, 1, 1, 2, 3, 5, 8, 13
+ 
  Input 1: 0
+ 
  Input 2: 0,1
  
  Written in C# with .NET Core
