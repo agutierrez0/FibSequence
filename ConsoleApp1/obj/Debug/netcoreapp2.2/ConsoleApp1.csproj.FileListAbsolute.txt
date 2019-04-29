@@ -1,0 +1,11 @@
+D:\coding folder dont touch plz\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.2\ConsoleApp1.deps.json
+D:\coding folder dont touch plz\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.2\ConsoleApp1.runtimeconfig.json
+D:\coding folder dont touch plz\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.2\ConsoleApp1.runtimeconfig.dev.json
+D:\coding folder dont touch plz\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.2\ConsoleApp1.dll
+D:\coding folder dont touch plz\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.2\ConsoleApp1.pdb
+D:\coding folder dont touch plz\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.2\ConsoleApp1.csprojAssemblyReference.cache
+D:\coding folder dont touch plz\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.2\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\coding folder dont touch plz\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.2\ConsoleApp1.AssemblyInfoInputs.cache
+D:\coding folder dont touch plz\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.2\ConsoleApp1.AssemblyInfo.cs
+D:\coding folder dont touch plz\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.2\ConsoleApp1.dll
+D:\coding folder dont touch plz\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.2\ConsoleApp1.pdb
